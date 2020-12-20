@@ -1,6 +1,6 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanshuangcao&theme=synthwave&show_icons=true?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### 既有梦想 矢志不渝 👋
 
+---
 ### I'm hanshuangcao
 
 - A Software Engineering Undergraduate Student. & Open Source enthusiast.
@@ -24,6 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanshuangcao&theme=synthwave&show_icons=true?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 ⭐️ From [hanshuangcao](https://github.com/hanshuangcao)
